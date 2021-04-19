@@ -18,4 +18,4 @@ Pisanje kode:
         2. pa še več oštevilčenja
         3. Zdaj pa je vse drugače
 
-Avtor: Tjaž Eržen
+Avtor: Tjaž Eržen, Fakulteta za matematiko in fiziko
