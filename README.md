@@ -16,4 +16,6 @@ Pisanje kode:
     - več podseznamov
         1. Oštevilčeno
         2. pa še več oštevilčenja
-    - ** To bo sprožilo spor. **
+        3. Zdaj pa je vse drugače
+
+Avtor: Tjaž Eržen
