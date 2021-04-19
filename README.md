@@ -16,3 +16,6 @@ Pisanje kode:
     - več podseznamov
         1. Oštevilčeno
         2. pa še več oštevilčenja
+        3. Zdaj pa je vse drugače
+
+Avtor: Tjaž Eržen
