@@ -10,6 +10,8 @@ Pisanje kode:
 
 ## Podnaslov
 
+To je za Issue številka 3
+
 - naštevam
 - več stvari
     - podseznami
